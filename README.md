@@ -1,8 +1,8 @@
 # KSCR3W
 KSCR3W CS:GO Configs
 
-| Nickname        | Config File           | Age  |
+| Nickname        | Config File           |
 | ------------- |:-------------:| -----:|
-| Acew0rm     | [Link](https://raw.githubusercontent.com/HAPwebsite/KSCR3W/master/ace.cfg)| 22 |
-| Chyno      | [Link](https://raw.githubusercontent.com/HAPwebsite/KSCR3W/master/dex.cfg)      |   23 |
-| Dex | [Link](https://github.com/HAPwebsite/KSCR3W/)      |   20 |
+| Acew0rm     | [Link](https://raw.githubusercontent.com/HAPwebsite/KSCR3W/master/ace.cfg)|
+| Chyno      | [Link](https://raw.githubusercontent.com/HAPwebsite/KSCR3W/master/dex.cfg)      |
+| Dex | [Link](https://github.com/HAPwebsite/KSCR3W/)      |
